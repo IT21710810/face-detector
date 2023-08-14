@@ -25,3 +25,4 @@ for img_path in os.listdir(data_dir):
     plt.imshow(img_rgb)
 
 plt.show()
+
